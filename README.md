@@ -18,3 +18,7 @@ Proyek ini dibuat sebagai **Final Project** untuk program **Maju Bareng AI**.
 - **Google Gemini API** (Core LLM - `gemini-2.5-flash`)
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://devmate-ai-chatbot.streamlit.app/)
+
+<p align="center">
+  <img src="screenshot.png" alt="DevMate AI Screenshot" width="600">
+</p>
