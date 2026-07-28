@@ -41,6 +41,19 @@ st.markdown("""
         margin-bottom: 15px;
         border: 1px solid rgba(255, 255, 255, 0.05);
     }
+
+    /* Pastikan teks penjelasan (Markdown) sangat terang dan jelas */
+    [data-testid="stMarkdownContainer"] p, 
+    [data-testid="stMarkdownContainer"] li {
+        color: #ffffff !important;
+        font-size: 15px;
+        line-height: 1.6;
+    }
+    
+    /* Header juga dibuat putih terang */
+    h1, h2, h3, h4, h5, h6 {
+        color: #ffffff !important;
+    }
     
     /* Custom divider */
     hr {
